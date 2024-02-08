@@ -1,0 +1,7 @@
+client
+server
+secret
+files/*
+web/files/*
+web/tmp/*
+web/videos/*
